@@ -34,7 +34,6 @@ def main():
             print(f"The result of division is: {result}") 
         else:    
             print(f"Division failed")    
-            
     else:
         print("Invalid input. Please select 1 to 4.")
 
